@@ -1,0 +1,11 @@
+HTML - Hyper Text Markup Language.
+
+tag - start<_> & closing tag</_>.
+
+attribute tag for connecting a link of a website.
+
+img, br & hr is empty tag.
+
+'div', 'ol' or 'ul' is look like ee container.
+
+'form'
